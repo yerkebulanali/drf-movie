@@ -200,6 +200,11 @@ celerybeat-schedule
 venv/
 ENV/
 
+
+prod_settings.py
+local_settings.py
+
+
 # Spyder project settings
 .spyderproject
 .spyproject
