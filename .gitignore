@@ -201,8 +201,8 @@ venv/
 ENV/
 
 
-prod_settings.py
-local_settings.py
+django_movie/django_movie/prod_settings.py
+django_movie/django_movie/local_settings.py
 
 
 # Spyder project settings
